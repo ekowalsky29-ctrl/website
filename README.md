@@ -1,3 +1,1 @@
-# Hello EHS Coding club members
-# It is I speaking
-# yes
+# "If at first you don't succeed, thats one data point"
